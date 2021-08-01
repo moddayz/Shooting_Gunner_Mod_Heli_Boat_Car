@@ -1,7 +1,7 @@
 This is a free helicopter mod for dayz standalone it will be updated and improved.
 You can pack it in your workshop if in the description write
 
->>>>>  The author of the mod for free helicopters https://sibnic.info there you can download the latest version of the mod. https://sibnic.info/discord we help in installing the mod. <<<<<
+>>>>>  The author of the mod for gunner https://sibnic.info there you can download the latest version of the mod. https://sibnic.info/discord we help in installing the mod. <<<<<
 
 If the description of the mod does not contain these links and descriptions, or you forbid the mod to be repackaged or sell my mod, I will consider it a violation and will submit the DMCA. !!
 

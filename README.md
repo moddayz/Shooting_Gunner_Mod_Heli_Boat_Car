@@ -1,4 +1,4 @@
-This is a free helicopter mod for dayz standalone it will be updated and improved.
+This is a free gunner mod for dayz standalone it will be updated and improved.
 You can pack it in your workshop if in the description write
 
 >>>>>  The author of the mod for gunner https://sibnic.info there you can download the latest version of the mod. https://sibnic.info/discord we help in installing the mod. <<<<<
@@ -27,7 +27,7 @@ https://sibnic.info/discord
 
 
 
-This is the SIBNIC helicopter shooting system
+This is the SIBNIC  shooting system
 just add the mod to the helicopters, the mod will not be provided in the open form thank 50% of those who uploaded the mod to the workshop without specifying a link to this github.
 You can use your own key, this key is for those who do not know how to sign encrypted pbo
 

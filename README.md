@@ -1,3 +1,6 @@
+
+The new improved version is available on the website  https://sibnic.info/download.html
+
 This is a free gunner mod for dayz standalone it will be updated and improved.
 You can pack it in your workshop if in the description write
 
@@ -7,6 +10,7 @@ If the description of the mod does not contain these links and descriptions, or 
 
 The mod should not contain the key that signed the pbo files, keep the key only in your keys folder on the server!
 
+Новая улучшенная версия доступна на сайте https://sibnic.info/download.html
 Это бесплатный мод на вертолет для автономной игры Dayz, 
 Вы можете упаковать его в своей мастерской, если в описании напишите:
 
